@@ -43,7 +43,7 @@ puts 3 + 6
 puts 4>2
 puts 4 >2
 puts 4 > 2
-puts 4 >  2
+puts 4 >  2*
 puts 4   >    2
 puts 4     >    2
 puts 4    >    2
@@ -59,3 +59,5 @@ puts 4/4
 puts 4 <=4
 puts 4  * 4
 puts 4 % 4
+puts 4 % 3
+puts 13 % 88
